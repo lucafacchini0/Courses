@@ -3,4 +3,4 @@ In this repository, you will find all sort of exercises i made during courses th
 # Courses
 The courses i followed are:
 ### Python
-- [Complete Python Mastery by CodeWithMosh](https://members.codewithmosh.com/courses/enrolled/417695)
+- [Complete Python Mastery by CodeWithMosh](https://members.codewithmosh.com/courses/enrolled/417695) (_yet to complete_)
